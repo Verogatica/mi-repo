@@ -1,0 +1,33 @@
+body { background-color: lightgrey; }
+
+
+.fondo { background-color: white; width: 500px; height: 300px; margin: 30px; display: inline-block; float:left; } 
+.fa { color: white; margin-left: 50px; margin-top: 40px} 
+
+.franja1 { background-color: red; width: 500px; height: 150px; margin-top: 30px}  
+.franja2 { background-color: blue; width: 180px; height: 300px; } 
+
+.franja3 { background-color: blue; width: 500px; height: 120px;}
+.franja4 { background-color: yellow; width: 500px; height: 60px; }
+.franja5 { background-color: blue; width: 500px; height: 120px; }
+.franja6 { background-color: yellow; width: 60px; height: 300px; margin-top: -300px; margin-left: 110px;}
+
+
+.franja11 { background-color: blue; width: 500px; height: 43px;}
+.franja7 { background-color: white; width: 500px; height: 43px;}
+.franja8 { background-color: blue; width: 500px; height: 43px;}
+.franja9 { background-color: white; width: 500px; height: 43px;}
+.franja10 { background-color: blue; width: 500px; height: 43px;}
+.franja12 { background-color: white; width: 500px; height: 43px;}
+.franja13 { background-color: blue; width: 500px; height: 42px;}
+.franja14 { background-color: white; width: 130px; height: 130px; margin-top: -351px; border-style: solid; border-width: 15px;border-color: white; }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 100%;
+  height: 100%;
+}
+
+#chile {background-color: white;}
